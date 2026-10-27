@@ -1,0 +1,52 @@
+[
+    {
+        "id": "PAT-1001",
+        "name": "Ramesh Chander",
+        "age": 58,
+        "gender": "Male",
+        "contact": "+91-91234-56781",
+        "blood": "B+",
+        "allergies": "Penicillin",
+        "doctor": "Dr. Arvind Sharma"
+    },
+    {
+        "id": "PAT-1002",
+        "name": "Pooja Sundaram",
+        "age": 34,
+        "gender": "Female",
+        "contact": "+91-91234-56782",
+        "blood": "O-",
+        "allergies": "Sulfa drugs",
+        "doctor": "Dr. Vikrant Verma"
+    },
+    {
+        "id": "PAT-1003",
+        "name": "Harpreet Singh",
+        "age": 46,
+        "gender": "Male",
+        "contact": "+91-91234-56783",
+        "blood": "A+",
+        "allergies": "None",
+        "doctor": "Dr. Rajesh Kulkarni"
+    },
+    {
+        "id": "PAT-1004",
+        "name": "Fatima Noor",
+        "age": 9,
+        "gender": "Female",
+        "contact": "+91-91234-56784",
+        "blood": "AB+",
+        "allergies": "None",
+        "doctor": "Dr. Sneha Pillai"
+    },
+    {
+        "id": "PAT-1005",
+        "name": "Devendra Patel",
+        "age": 65,
+        "gender": "Male",
+        "contact": "+91-91234-56785",
+        "blood": "O-",
+        "allergies": "Aspirin allergy",
+        "doctor": "Dr. Meenakshi Rao"
+    }
+]
